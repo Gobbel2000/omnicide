@@ -4,7 +4,7 @@ industrial_reactor.ingredient_count = 1
 industrial_reactor.animation = {
     layers = {
               {
-               filename = "__base__/graphics/entity/nuclear-reactor/reactor.png",
+               filename = "__omnicide__/graphics/nuclear-reactor/industrial_reactor.png",
                frame_count = 1,
                height = 160,
                width = 160,
@@ -13,7 +13,7 @@ industrial_reactor.animation = {
                         -0.1875
                        },
                hr_version = {
-                             filename = "__base__/graphics/entity/nuclear-reactor/hr-reactor.png",
+                             filename = "__omnicide__/graphics/nuclear-reactor/hr-industrial-reactor.png",
                              frame_count = 1,
                              height = 320,
                              width = 320,
@@ -26,7 +26,7 @@ industrial_reactor.animation = {
                },
                {
                 draw_as_shadow = true,
-                filename = "__base__/graphics/entity/nuclear-reactor/reactor-shadow.png",
+                filename = "__omnicide__/graphics/nuclear-reactor/industrial-reactor-shadow.png",
                 frame_count = 1,
                 height = 162,
                 width = 263,
@@ -36,7 +36,7 @@ industrial_reactor.animation = {
                         },
                 hr_version = {
                               draw_as_shadow = true,
-                              filename = "__base__/graphics/entity/nuclear-reactor/hr-reactor-shadow.png",
+                              filename = "__omnicide__/graphics/nuclear-reactor/hr-industrial-reactor-shadow.png",
                               frame_count = 1,
                               height = 323,
                               width = 525,

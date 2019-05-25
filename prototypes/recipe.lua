@@ -8,9 +8,7 @@ data:extend{
                    },
      name = "plutonium-production",
      results = {
-        {"plutonium", 
-         3
-        }
+        {"plutonium", 3}
      },
      type = "recipe"
     },
