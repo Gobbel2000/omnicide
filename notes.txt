@@ -1,0 +1,46 @@
+Final products:
+
+ICBMs for use in rocket silos. 
+^Possibly MRBM/IMRBM as well.
+Nuclear artillery shells for use in artillery turrets and atillery wagons. 
+Handheld nuclear rockets for use in rocket launchers, just like the vanilla nuke.
+
+Possibly integration with aircraft mod for air-launched bombs, that cannot be launched by a hand-held rocket launcher. Another option would be to let the player launch all nuclear rockets by hand, even if they unavoidably kill themselves. I like that idea actually. 
+
+
+Bomb tiers
+
+Fission
+
+Uranium bomb
+Plutonium bomb
+Plutonium-Uranium bomb??
+
+Fusion
+
+Boosted Fusion bomb
+Hydrogen bomb
+Fission-Fusion-Fission bomb
+Three-stage fusion bomb
+Neutron bomb?? probably not, because no fallout mechanic will be implemented
+MIRV = multiple warheads in one rocket (ICBM)
+
+
+
+
+Intermediate parts
+
+Raw warheads that can quickly be crafted into ICBM payloads for rocket silo launch, artillery shells or rockets. There won't always be all three options for every type of warhead.
+
+Different fuel cores, multiple of which are used in some warhead types:
+- Uranium-235
+- Uranium-238
+- Plutonium
+- Hydrogen (Tritium)
+	- probably in form of Lithium
+
+Shaped charges to trigger the Fission reaction, because just explosives aren't complex enough. 
+
+Remote launch control items for each of: ICBM (given on launch?), Atillery shells (really? for every bomb type? Maybe don't make that many artillery options then)
+
+
