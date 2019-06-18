@@ -1,5 +1,7 @@
 require("prototypes.recipe-category")
 require("prototypes.item-subgroup")
 require("prototypes.item")
+require("prototypes.ammo")
 require("prototypes.recipe")
 require("prototypes.entity")
+require("prototypes.projectile")

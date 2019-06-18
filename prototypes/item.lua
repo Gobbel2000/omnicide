@@ -1,6 +1,6 @@
 data:extend{
     {
-     icon = "__omnicide__/graphics/plutonium64.png",
+     icon = "__omnicide__/graphics/plutonium-solution.png",
      icon_size = 64,
      name = "plutonium",
      stack_size = 10,
