@@ -1,0 +1,24 @@
+--------------------
+FISSION
+--------------------
+
+Pure Uranium 235, Gun-assembly, easiest, example Hiroshima: 64.1kg U 235
+
+Only U 235 is useful for Gun-type. Plutonium starts reaction too early. 
+
+
+Pure Plutonium (239), implosion, more difficult to build, 6.2kg Pu --> 21-23kt, example Nagasaki (21kt)
+
+Implosion-type can also be done with U 235, as well as with Pu 239
+
+Simple Implosion is very large, too large for ARTILLERY!
+But, Two-Point Detonation reduces overall diameter, Pu CAN fit in an Artillery shell (as well as U here)
+That's why TPD is way popular. 
+
+When you're bluffing about your arsenal:
+"I'll hit hit you with a bomb made powerful by Plutonium!"
+"no, U"
+(I'm so sorry)
+
+
+
