@@ -71,7 +71,9 @@ industrial_reactor.selection_box = {
 }
 industrial_reactor.crafting_categories = {"industrial-reactor"}
 industrial_reactor.crafting_speed = 1
-industrial_reactor.fast_replacable_group = nil
+-- remove the assemblers upgrade group
+industrial_reactor.fast_replaceable_group = nil
+industrial_reactor.next_upgrade = nil
 industrial_reactor.icon = "__base__/graphics/icons/nuclear-reactor.png"
 industrial_reactor.icon_size = 32
 industrial_reactor.max_health = 500

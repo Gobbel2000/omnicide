@@ -1,3 +1,5 @@
+
+
 --------------------
 FISSION
 --------------------
@@ -22,3 +24,25 @@ When you're bluffing about your arsenal:
 
 
 
+--------------------
+BOOSTED WEAPONS
+--------------------
+
+Fusion fuel (Deuterium/Tritium) inside fission core for better/faster/more efficient fission
+255kt-45.5kt in tests, broadly used. 
+
+
+
+
+-------------------- 
+FUSION: THERMONUCLEAR WEAPONS
+--------------------
+
+Two stages: primary fission to start the fusion reaction
+secondary fusion as a second core
+
+has some plastics
+
+Fusion Fuel: liquid deuterium, must be kept below boiling point of -250°C. 
+later solid lithium deuteride fuel, tritium bred during fission
+the tritium fuses with the deuterium
