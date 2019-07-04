@@ -27,6 +27,14 @@ data:extend{
      subgroup = "omnicide",
      type = "item"
     },
+    {
+     icon = "__omnicide__/graphics/explosive-lens.png",
+     icon_size = 64,
+     name = "explosive-lens",
+     stack_size = 10,
+     order = "c",
+     subgroup = "omnicide",
+     type = "item"},
 }
 
 

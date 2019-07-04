@@ -44,3 +44,13 @@ Shaped charges to trigger the Fission reaction, because just explosives aren't c
 Remote launch control items for each of: ICBM (given on launch?), Atillery shells (really? for every bomb type? Maybe don't make that many artillery options then)
 
 
+Standard ingredients:
+
+radar
+RCU
+Modules, for huge complexity
+steel
+some circuitery
+explosives/HE
+tamper, maybe out of copper, because why not
+

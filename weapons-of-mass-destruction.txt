@@ -41,7 +41,7 @@ FUSION: THERMONUCLEAR WEAPONS
 Two stages: primary fission to start the fusion reaction
 secondary fusion as a second core
 
-has some plastics
+has some plastics between the cores
 
 Fusion Fuel: liquid deuterium, must be kept below boiling point of -250°C. 
 later solid lithium deuteride fuel, tritium bred during fission
