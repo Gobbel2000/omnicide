@@ -39,4 +39,16 @@ data:extend{
      name = "neutron-reflector",
      type = "recipe"
     },
+    {
+     enabled = true,
+     energy_required = 15,
+     ingredients = 
+        {
+         {"uranium-238", 15},
+         --possibly something else?
+        },
+     result = "uranium-238-fuel",
+     name = "uranium-238-fuel",
+     type = "recipe"
+    },
 }

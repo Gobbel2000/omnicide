@@ -45,6 +45,15 @@ data:extend{
      subgroup = "omnicide",
      type = "item"
     },
+    {
+     icon = "__omnicide__/graphics/uranium-238-fuel.png",
+     icon_size = 64,
+     name = "uranium-238-fuel",
+     stack_size = 10,
+     order = "e",
+     subgroup = "omnicide",
+     type = "item"
+    },
 }
 
 
