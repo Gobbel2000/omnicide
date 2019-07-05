@@ -34,7 +34,17 @@ data:extend{
      stack_size = 10,
      order = "c",
      subgroup = "omnicide",
-     type = "item"},
+     type = "item"
+    },
+    {
+     icon = "__omnicide__/graphics/neutron-reflector.png",
+     icon_size = 64,
+     name = "neutron-reflector",
+     stack_size = 20,
+     order = "d",
+     subgroup = "omnicide",
+     type = "item"
+    },
 }
 
 

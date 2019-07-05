@@ -12,20 +12,31 @@ data:extend{
      enabled = true,
      energy_required = 60,
      ingredients = {{"plutonium", 5}},
-     results = {{"plutonium-pit", 1}},
+     result = "plutonium-pit",
      name = "plutonium-pit",
      type = "recipe"
     },
     {
-     enabled = true,
+     enabled = false,
      energy_required = 15,
      ingredients = {
                     {"explosives", 10},
                     {"copper-plate", 10},
                     {"plastic-bar", 5}
                    },
-     results = {{"explosive-lens", 1}},
+     result = "explosive-lens",
      name = "explosive-lens",
+     type = "recipe"
+    },
+    {
+     enabled = false,
+     energy_required = 15,
+     ingredients = {
+                    {"steel-plate", 10},
+                    {"coal", 5}
+                   },
+     result = "neutron-reflector",
+     name = "neutron-reflector",
      type = "recipe"
     },
 }
